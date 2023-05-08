@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm JunYoung !
 <div>
-I'm a junior Web Front-end developer who has a lot to learn.
+I'm a junior web Front-end developer who has a lot to learn.
 </div>
 <div>
 Thinking of users, I am also interested in UX/UI design.
 </div>
-
+	
 <br />
 
 ## 💪🏻 Tech Stack
@@ -19,10 +19,17 @@ Thinking of users, I am also interested in UX/UI design.
 
 <br />
 
+## 🌱 Studying
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+
+</div>
+
+<br />
+
 ## 🚀 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunyange&show_icons=true&theme=default">
-
-
+![Junyoung's github stats](https://github-readme-stats.vercel.app/api?username=zunyange&show_icons=true&theme=dracula)
 
 
 <!--
