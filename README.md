@@ -29,7 +29,7 @@ Thinking of users, I am also interested in UX/UI design.
 <br />
 
 ## 🚀 GitHub Stats
-![Junyoung's github stats](https://github-readme-stats.vercel.app/api?username=zunyange&show_icons=true&theme=dracula)
+![Junyoung's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=zunyange&show_icons=true&theme=dracula)
 
 
 
