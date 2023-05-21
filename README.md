@@ -32,9 +32,7 @@ Thinking of users, I am also interested in UX/UI design.
 ## 💌 Social 
 
 <div>
-<a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>
-<a href="https://velog.io/@zunyange"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@zunyange"/></a>
-	
+<a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>	
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=zunyange)](https://velog.io/@zunyange) 
 	
 </div>
