@@ -33,12 +33,13 @@ Thinking of users, I am also interested in UX/UI design.
 
 <a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>	
 [![Velog](https://img.shields.io/badge/-Velog-20C997?logo=Velog&logoColor=white&style=for-the-badge)](https://velog.io/@zunyange/)
-																
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zunyange)](https://github.com/zunyange/velog-readme-stats)
+
 <br />
 															     
 ## 🚀 GitHub Stats
 ![Junyoung's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=zunyange&show_icons=true&theme=dracula)
-
 
 <!--
 **zunyange/zunyange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
