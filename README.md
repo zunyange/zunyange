@@ -3,7 +3,7 @@
 I'm a junior web Front-end developer who has a lot to learn.
 </div>
 <div>
-Thinking of users, I am also interested in UX/UI design.
+Slow and steady wins the race. 🏃🏻‍♀️
 </div>
 	
 <br />
@@ -34,8 +34,6 @@ Thinking of users, I am also interested in UX/UI design.
 <a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>	
 [![Velog](https://img.shields.io/badge/-Velog-20C997?logo=Velog&logoColor=white&style=for-the-badge)](https://velog.io/@zunyange/)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zunyange)](https://velog.io/@zunyange/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
-
 <br />
 															     
 ## 🚀 GitHub Stats
@@ -54,4 +52,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Thinking of users, I am also interested in UX/UI design.
 -->
