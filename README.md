@@ -3,7 +3,7 @@
 I'm a junior web Front-end developer who has a lot to learn.
 </div>
 <div>
-Slow and steady wins the race. 🏃🏻‍♀️
+Slow and steady wins the race. 🏃🏻‍♀️ I'm constantly trying to write a tech blog. Come visit my Velog!
 </div>
 	
 <br />
