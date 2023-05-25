@@ -3,7 +3,7 @@
 Hi, I'm JunYoung! 😉 I'm a junior web Front-end developer who has a lot to learn.
 </div>
 <div>
-<strong>Slow and steady wins the race.</strong> 🏃🏻‍♀️ I'm constantly trying to write a tech blog.
+<strong>Slow and steady wins the race.</strong> 🏃🏻‍♀️ I'm making an effort to write a tech blog constantly.
 </div>
 
 ## 💪🏻 Tech Stack
