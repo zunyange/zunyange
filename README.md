@@ -1,30 +1,27 @@
-## 👋 Hi, I'm JunYoung !
+
 <div>
-I'm a junior web Front-end developer who has a lot to learn.
+Hi, I'm JunYoung! 😉 I'm a junior web Front-end developer who has a lot to learn.
 </div>
 <div>
-Slow and steady wins the race. 🏃🏻‍♀️ I'm constantly trying to write a tech blog. Come visit my Velog!
+<strong>Slow and steady wins the race.</strong> 🏃🏻‍♀️ I'm constantly trying to write a tech blog.
 </div>
-	
-<br />
 
 ## 💪🏻 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 
-<br />
+<br/>
 
 ## 🌱 Studying
 <div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-
 </div>
 
 <br />
@@ -37,7 +34,7 @@ Slow and steady wins the race. 🏃🏻‍♀️ I'm constantly trying to write 
 <br />
 															     
 ## 🚀 GitHub Stats
-![Junyoung's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=zunyange&show_icons=true&theme=dracula)
+![Junyoung's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=zunyange&show_icons=true&theme=apprentice)
 
 <!--
 **zunyange/zunyange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
