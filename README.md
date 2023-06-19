@@ -34,7 +34,9 @@ Hi, I'm JunYoung! 😉 I'm a junior web Front-end developer who has a lot to lea
 <br />
 															     
 ## 🚀 GitHub Stats
-![Junyoung's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=zunyange&show_icons=true&theme=apprentice)
+![Junyoung's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zunyange&show_icons=true&theme=vue)
+
+
 
 <!--
 **zunyange/zunyange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
