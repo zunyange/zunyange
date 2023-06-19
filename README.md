@@ -34,7 +34,7 @@ Hi, I'm JunYoung! 😉 I'm a junior web Front-end developer who has a lot to lea
 <br />
 															     
 ## 🚀 GitHub Stats
-![Junyoung's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zunyange&show_icons=true&theme=vue)
+![Junyoung's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zunyange&show_icons=true&theme=graywhite)
 
 
 
