@@ -1,5 +1,5 @@
 <div align="center">
-Hi, I'm Junyoung! 😉 I'm a junior web Front-end developer who has a lot to learn. <br/> <strong>Slow and steady wins the race.</strong> 🏃🏻‍♀️ I'm making an effort to develop tech blog constantly.
+Hi, I'm Junyoung! 😉<br/> I'm a junior web Front-end developer who has a lot to learn. <br/> <strong>Slow and steady wins the race.</strong> 🔥 I'm making an effort to develop tech blog constantly.
 
 
 <h3>💪🏻 Tech Stack<h3/>
