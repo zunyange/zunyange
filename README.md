@@ -7,21 +7,23 @@ Hi, I'm Junyoung! 😉<br/> I'm a junior Web Front-end Developer who wants to le
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 </div>
 
 <h3> 🌱 Studying</h3>
 <div>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 </div>
 
 <h3>💌 Social </h3> 
 
 <a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>	
 [![Velog](https://img.shields.io/badge/-Velog-20C997?logo=Velog&logoColor=white&style=for-the-badge)](https://velog.io/@zunyange/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/giveyoung530/)
 
 <br />
 															     
