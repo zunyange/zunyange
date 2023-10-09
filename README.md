@@ -22,10 +22,10 @@ Hi, I'm Junyoung! 😉<br/> I'm a junior Web Front-end Developer who wants to le
 </div>
 
 <h3>💌 Social </h3> 
-
-<a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>	
+	
 [![Velog](https://img.shields.io/badge/-Velog-20C997?logo=Velog&logoColor=white&style=for-the-badge)](https://velog.io/@zunyange/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/giveyoung530/)
+<a href="mailto:giveyoung530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giveyoung530@gmail.com"/></a>
 
 <br />
 															     
