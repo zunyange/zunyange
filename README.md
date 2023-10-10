@@ -2,7 +2,7 @@
 Hi, I'm Junyoung! 😉<br/> I'm a junior Web Front-end Developer who wants to learn a lot. <br/> <strong>Slow and steady wins the race.</strong> 🔥 I'm making an effort to develop tech blog constantly.
 
 
-<h3>💪🏻 Tech Stack<h3/>
+### 💪🏻 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -12,16 +12,15 @@ Hi, I'm Junyoung! 😉<br/> I'm a junior Web Front-end Developer who wants to le
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 </div>
 
-<h3> 🌱 Studying</h3>
+### 🌱 Studying
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
-
 </div>
 
-<h3>💌 Social </h3> 
+### 💌 Social
 	
 [![Velog](https://img.shields.io/badge/-Velog-20C997?logo=Velog&logoColor=white&style=for-the-badge)](https://velog.io/@zunyange/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/giveyoung530/)
@@ -29,7 +28,7 @@ Hi, I'm Junyoung! 😉<br/> I'm a junior Web Front-end Developer who wants to le
 
 <br />
 															     
-## 🚀 GitHub Stats
+### 🚀 GitHub Stats
 ![Junyoung's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zunyange&show_icons=true&theme=graywhite)
 
 </div>
